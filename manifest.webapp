@@ -16,13 +16,13 @@
   "appcache_path": "/cache.manifest",
   "locales": {
     "es": {
-      "description": "Test  My App",
+      "description": "Test My App",
       "developer": {
         "url": "http://iiipoqiii.github.com/"
       }
     },
     "it": {
-      "description": "Test  My App",
+      "description": "Test My App",
       "developer": {
         "url": "http://iiipoqiii.github.com/"
       }
