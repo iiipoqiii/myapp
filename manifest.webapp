@@ -9,22 +9,22 @@
     "128": "/img/icons/mortar-128.png"
   },
   "developer": {
-    "name": "Your Name",
-    "url": "http://yourawesomeapp.com"
+    "name": "iiKeith",
+    "url": "http://iiipoqiii.github.com/"
   },
   "installs_allowed_from": ["*"],
   "appcache_path": "/cache.manifest",
   "locales": {
     "es": {
-      "description": "Su nueva aplicación impresionante Open Web",
+      "description": "Test My App",
       "developer": {
-        "url": "http://yourawesomeapp.com"
+        "url": "http://iiipoqiii.github.com/"
       }
     },
     "it": {
-      "description": "Il vostro nuovo fantastico Open Web App",
+      "description": "Test My App",
       "developer": {
-        "url": "http://yourawesomeapp.com"
+        "url": "http://iiipoqiii.github.com/"
       }
     }
   },
